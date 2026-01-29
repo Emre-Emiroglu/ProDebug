@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-namespace HMProDebug.Runtime
+namespace ProDebug.Runtime
 {
     /// <summary>
     /// Represents a color that can be applied to a string in Unity.

@@ -1,4 +1,4 @@
-﻿namespace HMProDebug.Runtime
+﻿namespace ProDebug.Runtime
 {
     /// <summary>
     /// Represents a text format that can be applied to a string in Unity.

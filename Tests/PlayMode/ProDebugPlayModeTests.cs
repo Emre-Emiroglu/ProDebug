@@ -1,10 +1,10 @@
 ﻿using System.Collections;
-using HMProDebug.Runtime;
 using NUnit.Framework;
+using ProDebug.Runtime;
 using UnityEngine;
 using UnityEngine.TestTools;
 
-namespace HMProDebug.Tests.PlayMode
+namespace ProDebug.Tests.PlayMode
 {
     public sealed class ProDebugPlayModeTests
     {

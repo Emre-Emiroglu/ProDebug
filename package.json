@@ -1,8 +1,8 @@
 {
-  "name": "com.emreemiroglu.hmprodebug",
+  "name": "com.emreemiroglu.prodebug",
   "version": "1.0.0",
-  "displayName": "HMProDebug",
-  "description": "HMProDebug is a simple and flexible utility that enhances Unity debug logs with easy text coloring and formatting for improved readability.",
+  "displayName": "ProDebug",
+  "description": "ProDebug is a simple and flexible utility that enhances Unity debug logs with easy text coloring and formatting for improved readability.",
   "author": {
     "name": "Emre Emiroglu",
     "email": "emirogluemre08@gmail.com",
@@ -15,6 +15,6 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/Emre-Emiroglu/HMProDebug.git"
+    "url": "https://github.com/Emre-Emiroglu/ProDebug.git"
   }
 }

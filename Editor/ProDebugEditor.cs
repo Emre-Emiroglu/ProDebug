@@ -1,10 +1,10 @@
 ﻿using System;
 using System.Collections.Generic;
-using HMProDebug.Runtime;
+using ProDebug.Runtime;
 using UnityEditor;
 using UnityEngine;
 
-namespace HMProDebug.Editor
+namespace ProDebug.Editor
 {
     public sealed class ProDebugEditor : EditorWindow
     {

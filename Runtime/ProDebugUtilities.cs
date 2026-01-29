@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-namespace HMProDebug.Runtime
+namespace ProDebug.Runtime
 {
     /// <summary>
     /// Provides utility functions and fields for applying text formatting and coloring.

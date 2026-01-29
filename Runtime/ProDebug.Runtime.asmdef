@@ -1,6 +1,6 @@
 {
-    "name": "HMProDebug.Runtime",
-    "rootNamespace": "HMProDebug.Runtime",
+    "name": "ProDebug.Runtime",
+    "rootNamespace": "ProDebug.Runtime",
     "references": [],
     "includePlatforms": [],
     "excludePlatforms": [],

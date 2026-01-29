@@ -1,8 +1,9 @@
 {
-    "name": "HMProDebug.Editor",
-    "rootNamespace": "HMProDebug.Editor",
+    "name": "ProDebug.Editor",
+    "rootNamespace": "ProDebug.Editor",
     "references": [
-        "GUID:0bd6c72e94562b34bbc1f0a613e28296"
+        "GUID:0bd6c72e94562b34bbc1f0a613e28296",
+        "HMProDebug.Runtime"
     ],
     "includePlatforms": [
         "Editor"

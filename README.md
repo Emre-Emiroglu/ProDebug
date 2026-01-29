@@ -1,10 +1,8 @@
-<img src="icon.jpg" width="512" height="512" alt="HMProDebug Logo">
-
-# HMProDebug
-HMProDebug is a utility package designed to help developers easily apply text formatting and coloring in Unity's debug logs. This package provides a simple and flexible way to enhance the visual readability of debug messages by allowing text to be colored and formatted using both predefined and custom options.
+# ProDebug
+ProDebug is a utility package designed to help developers easily apply text formatting and coloring in Unity's debug logs. This package provides a simple and flexible way to enhance the visual readability of debug messages by allowing text to be colored and formatted using both predefined and custom options.
 
 ## Features
-HMProDebug offers the following capabilities:
+ProDebug offers the following capabilities:
 * Colorization: Apply predefined or custom colors to text in Unity's debug console.
 * Text Formatting: Add bold or italic formatting to text for better emphasis.
 * Customization: Supports custom color codes and text formatting styles.
@@ -13,13 +11,13 @@ HMProDebug offers the following capabilities:
 ## Getting Started
 Install via UPM with git URL
 
-`https://github.com/Emre-Emiroglu/HMProDebug.git`
+`https://github.com/Emre-Emiroglu/ProDebug.git`
 
 Clone the repository
 ```bash
-git clone https://github.com/Emre-Emiroglu/HMProDebug.git
+git clone https://github.com/Emre-Emiroglu/ProDebug.git
 ```
-This project is developed using Unity version 6000.0.42f1.
+This project is developed using Unity version 6000.2.6f2.
 
 ## Usage
 * Colorization: You can apply predefined or custom colors to your debug messages.
@@ -49,7 +47,7 @@ This project is developed using Unity version 6000.0.42f1.
     ```
 
 * ProDebug Editor: HMProDebug also includes a custom Editor window to allow easy selection of colors and formats without writing code.
-  * Open the Editor window via the Unity menu: `Tools > HMProDebug > ProDebugEditor`.
+  * Open the Editor window via the Unity menu: `Tools > ProDebug > ProDebugEditor`.
   * Enter the text you want to log.
   * Select the color and format using dropdowns and input fields.
   * Click the "Show Log" button to see the formatted message in the console.

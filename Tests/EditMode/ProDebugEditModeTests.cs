@@ -1,8 +1,8 @@
-﻿using HMProDebug.Runtime;
-using NUnit.Framework;
+﻿using NUnit.Framework;
+using ProDebug.Runtime;
 using UnityEngine;
 
-namespace HMProDebug.Tests.EditMode
+namespace ProDebug.Tests.EditMode
 {
     public sealed class ProDebugEditModeTests
     {
