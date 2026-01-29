@@ -9,7 +9,7 @@ namespace ProDebug.Editor
     public sealed class ProDebugEditor : EditorWindow
     {
         #region Constants
-        private const string MenuItem = "Tools/HMProDebug/ProDebugEditor";
+        private const string MenuItem = "Tools/ProDebug/ProDebugEditor";
         private const string Name = "Pro Debug Editor";
         private const float MinWidth = 384;
         private const float MaxWidth = 512;
